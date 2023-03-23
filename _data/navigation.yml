@@ -18,8 +18,6 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "About Me"
-    url: /categories/about-me/
   - title: "Portfolio"
     url: https://www.notion.so/b382c26cd51046c8be91f8a5e551ab71
   - title: "Projects"
