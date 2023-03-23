@@ -15,8 +15,8 @@ comments: false
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">  Seoul, Korea</span>  
         </li>  
         <li>  
-          <a href="https://github.com/haileeLog" itemprop="sameAs" rel="nofollow noopener noreferrer">  
-            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">  https://github.com/haileeLog</span>  
+          <a href="https://github.com/hailee-log" itemprop="sameAs" rel="nofollow noopener noreferrer">  
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">  https://github.com/hailee-log</span>  
           </a>  
         </li>  
         <li>  

@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://haileelog.github.io/
+    url: https://hailee-log.github.io/
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/haileeLog
+    url: https://github.com/hailee-log
 
   # - title: "Projects"
   #   url: /projects/
