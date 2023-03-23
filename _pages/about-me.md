@@ -29,11 +29,11 @@ comments: false
 </div>  
 <br>
 
-<div>  
-    <h3>Web Developer & More</h3>
-        2019년부터 웹 개발자로 일하고 있는 유하람입니다.<br>
-        백엔드를 주로 맡아 개발하지만, 기획 & 디자인에도 늘 관심이 많아<br>
-        <i>web developer & more</i> 로 저를 소개합니다. <br>
-        <br>
-</div>
-        저의 포트폴리오는 [여기](https://www.notion.so/b382c26cd51046c8be91f8a5e551ab71)에서 확인해주세요!
+
+<h3>Web Developer & More</h3>
+2019년부터 웹 개발자로 일하고 있는 유하람입니다.<br>
+백엔드를 주로 맡아 개발하지만, 기획 & 디자인에도 늘 관심이 많아<br>
+<i>web developer & more</i> 로 저를 소개합니다. <br>
+<br>
+
+저의 포트폴리오는 [여기](https://www.notion.so/b382c26cd51046c8be91f8a5e551ab71)에서 확인해주세요!
